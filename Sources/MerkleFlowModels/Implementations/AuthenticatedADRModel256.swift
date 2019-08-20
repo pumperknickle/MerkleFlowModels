@@ -28,4 +28,3 @@ public struct AuthenticatedADRModel256: SQLiteModel {
         self._deployerSignature = authAdr.deployerSignature
     }
 }
-

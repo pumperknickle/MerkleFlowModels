@@ -12,7 +12,7 @@ let package = Package(
     ],
     dependencies: [
         // Base crypto types
-        .package(url: "https://github.com/pumperknickle/CryptoStarterPack.git", from: "1.0.1"),
+        .package(url: "https://github.com/pumperknickle/CryptoStarterPack.git", from: "1.0.3"),
         // Swift ORM (queries, models, relations, etc) built on SQLite 3.
         .package(url: "https://github.com/vapor/fluent-sqlite.git", from: "3.0.0")
     ],
